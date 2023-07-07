@@ -164,3 +164,7 @@ cython_debug/
 models/
 .data
 data/
+Exercises/data
+Exercises/data/
+Exercises/models
+Exercises/models/
